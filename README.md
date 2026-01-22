@@ -24,8 +24,6 @@ This project allows users to calculate their BMI based on height and weight and 
 - 🎨 Clean and simple user interface  
 
 ---
-![GitHub Pages](https://github.com/Sumit-sourabh45/BMI-Calculator/workflows/pages%20build%20and%20deployment/badge.svg)
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the application  
